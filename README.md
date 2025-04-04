@@ -29,10 +29,7 @@ A real-time one-on-one chat application built with the **MERN Stack** and **Sock
 - JSON Web Token (JWT)  
 
 
-## 📸 Screenshots
-![Registration page]()
-![Login Page]()
-![Chat page]()
+
 
 
 
